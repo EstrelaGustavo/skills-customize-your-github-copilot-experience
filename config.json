@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "consuming-rest-apis",
+      "title": "Consuming REST APIs with Python",
+      "description": "Consume public REST APIs with Python, process JSON responses, and handle request errors.",
+      "path": "assignments/consuming-rest-apis",
+      "dueDate": "2026-10-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
